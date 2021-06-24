@@ -9,3 +9,15 @@ export const decNumber = () => {
     type: "DECREMENT",
   };
 };
+
+export const mulNumber = () => {
+  return {
+    type: "MUL",
+  };
+};
+
+export const divNumber = () => {
+  return {
+    type: "DIV",
+  };
+};
