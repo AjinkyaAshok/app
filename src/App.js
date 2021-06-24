@@ -20,7 +20,7 @@ function App() {
 
       <div>
         {" "}
-        <h1>MULTIPLICATION/DIVI</h1>
+        <h1>MULTIPLICATION/DIVISION</h1>
         <button onClick={() => dispatch(divNumber())} type="submit">
           <span>/</span>
         </button>
